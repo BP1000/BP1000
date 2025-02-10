@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BP1000
-- 👀 I’m interested in sports, ranching, and programming
+- 👀 I’m interested in sports and programming
 - 📫 How to reach me follow me on Instagram @bhavikpatel4047
 
 <!---
