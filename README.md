@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bhavik Patel
+👋 Hi, I’m Bhavik Patel
 🚀 **Machine Learning Enthusiast| Aspiring Tech Founder **
 📊 Building ML models for assest predictions
 🤖 Exploring Deep Learning Arciterctures and Alternative Models
