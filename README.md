@@ -1,5 +1,5 @@
 👋 Hi, I’m Bhavik Patel
-🚀 **Machine Learning Enthusiast| Aspiring Tech Founder **
+🚀 **Machine Learning Enthusiast| Aspiring Tech Founder**
 📊 Building ML models for assest predictions
 🤖 Exploring Deep Learning Arciterctures and Alternative Models
 📈 Dreaming of a startup that revolutionzies investment mangement with AI
