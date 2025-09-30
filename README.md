@@ -1,15 +1,12 @@
 - 👋 Hi, I’m Bhavik Patel
 - 🚀 **Machine Learning Enthusiast| Aspiring Tech Founder**
 - 📊 Building ML models for assest predictions
-- 🤖 Exploring Deep Learning Arciterctures and Alternative Models
+- 🤖 Exploring Quanitative Models and Algorithmic Trading
 - 📈 Dreaming of a startup that revolutionzies investment mangement with AI
 - 🛠️ **Tech Stack**:
-  - Python | PyTorch | Scikit-Learn |
-  - Data Preprocessing | Time Series Analysis | LSTMS
+  - C++ | Python | PyTorch
 - 🧠 **Currently Learning: **
-  - Keras
-  - Flask
-  - SQL
+  - C++
   - Advanced Deep Learning Techniques & Model Optimization
 - 📩 Always open to dicussion on AI, finance, and startups--let's connect!
 - 💬 **Contact Info:**
