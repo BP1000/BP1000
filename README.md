@@ -5,7 +5,7 @@
 - 📈 Dreaming of a startup that revolutionzies investment mangement with AI
 - 🛠️ **Tech Stack**:
   - C++ | Python | PyTorch
-- 🧠 **Currently Learning: **
+- 🧠 **Currently Learning:**
   - C++
   - Multithreading and Concurrency
   - Writing Cache-Friendly Code
