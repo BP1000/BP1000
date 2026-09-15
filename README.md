@@ -7,7 +7,8 @@
   - C++ | Python | PyTorch
 - 🧠 **Currently Learning: **
   - C++
-  - Advanced Deep Learning Techniques & Model Optimization
+  - Multithreading and Concurrency
+  - Writing Cache-Friendly Code
 - 📩 Always open to dicussion on AI, finance, and startups--let's connect!
 - 💬 **Contact Info:**
   - Instagram: @Bhavikpatel4047
