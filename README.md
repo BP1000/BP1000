@@ -1,21 +1,42 @@
-- 👋 Hi, I’m Bhavik Patel
-- 🚀 **Machine Learning Enthusiast| Aspiring Tech Founder**
-- 📊 Building ML models for assest predictions
-- 🤖 Exploring Quanitative Models and Algorithmic Trading
-- 📈 Dreaming of a startup that revolutionzies investment mangement with AI
-- 🛠️ **Tech Stack**:
-  - C++ | Python | PyTorch
-- 🧠 **Currently Learning:**
-  - C++
-  - Multithreading and Concurrency
-  - Writing Cache-Friendly Code
-- 📩 Always open to dicussion on AI, finance, and startups--let's connect!
-- 💬 **Contact Info:**
-  - Instagram: @Bhavikpatel4047
-  - LinkedIn: www.linkedin.com/in/bhavik-patel-96891630b
-  - Email: Bhavikpatel200010@gmail.com
-  
-<!---
-BP1000/BP1000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+
+<!-- Retro CRT-style header -->
+<img width="1024" height="1536" alt="CCF50793-06F7-4072-9367-E1FD9312C062" src="https://github.com/user-attachments/assets/5bd28e88-16ca-4f6f-bf68-051ff351b107" />
+
+
+<!-- Typing animation with extra vertical space -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=150&lines=C%2B%2B+Developer+%7C+Aspiring+Software+Engineer;Building+C%2B%2B+trading+systems+for+algorithmic+trading;Building+Trading+Systems+%26+Algo+Trading" alt="Typing SVG" />
+</a>
+
+<br><br>
+
+</div>
+
+---
+
+### 🕹️ **About Me**
+
+
++ Hi, I’m Bhavik Patel
++ CS Student @ Florida Tech
++ Hobbies: Working out, going to the beach, swimming, and watching sports 🏈 🏀 
+
+### 🕹️ SYSTEM STATUS
+
+```diff
+ ======================== [ TECH STACK ] ========================
+
+   C++          ▓▓▓▓▓▓▓▓▓▓
+   Python       ▓▓▓▓▓▓▓▓░░
+   PyTorch      ▓▓▓▓▓▓░░░░
+
+ ================== [ CURRENTLY LEVELING UP ] ==================
+
+   C++                        [██████████░░░░░░░░░░] 50%
+   Multithreading & Concurrency [████████░░░░░░░░░░░░] 40%
+   Cache-Friendly Code        [███████░░░░░░░░░░░░░] 35%
+   Operating Systems          [█████████░░░░░░░░░░░] 45%
+   Computer Architecture      [████████░░░░░░░░░░░░] 40%
+
+ ==============================================================
